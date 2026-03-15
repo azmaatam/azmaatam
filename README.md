@@ -29,9 +29,7 @@ Passionate Full-Stack Developer specializing in Laravel and modern web technolog
 ## 📊 GitHub Stats
 <div align="center">
 
-  [![Azma Atam GitHub stats](https://github-readme-stats.vercel.app/api?username=azmaatam&show_icons=true&locale=en&theme=dark)](https://github.com/azmaatam/github-readme-stats)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmaatam&theme=dark" alt="azmaatam streak" width="%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=azmaatam&show_icons=true&locale=en&theme=dark" alt="azmaatam stats" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmaatam&theme=dark" alt="azmaatam streak" width="48%" />
 
 ## 📈 Activity Graph
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=azmaatam&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph"/></div>

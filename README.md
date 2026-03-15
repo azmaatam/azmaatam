@@ -9,8 +9,6 @@
 ## 🚀 About Me
 Passionate Full-Stack Developer specializing in Laravel and modern web technologies. I love crafting efficient, scalable applications and contributing to open-source. Currently diving deep into Laravel ecosystem!
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iY8CRdNsgDDJkJ28vS/giphy.gif" />
-
 ## 📊 GitHub Stats
 <div align="center">
 

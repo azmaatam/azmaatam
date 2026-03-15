@@ -14,51 +14,11 @@ Passionate Full-Stack Developer specializing in Laravel and modern web technolog
 
   <img src="https://github-readme-stats.vercel.app/api?username=azmaatam&show_icons=true&locale=en&theme=radical" alt="azmaatam stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmaatam&theme=radical" alt="azmaatam streak" width="38.5%" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmaatam&layout=compact&langs_count=7&theme=radical" alt="azmaatam top langs" /> ![Trophy](https://github-profile-trophy.vercel.app/?username=azmaatam&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
 
-### Frontend
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60"/></td>
-  </tr>
-</table>
-
-### Backend
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60"/></td>
-  </tr>
-</table>
-
-### Database & Tools
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60"/></td>
-  </tr>
-</table>
-
-</div>
-
-## ✨ My Status
-<div align="center">
-
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,docker,laravel,python,tailwind,mysql,github)](https://skillicons.dev)
 
 </div>
 

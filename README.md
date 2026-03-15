@@ -32,7 +32,11 @@ Passionate Full-Stack Developer specializing in Laravel and modern web technolog
   <img src="https://github-readme-stats.vercel.app/api?username=azmaatam&show_icons=true&locale=en&theme=dark" alt="azmaatam stats" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmaatam&theme=dark" alt="azmaatam streak" width="48%" />
 
 ## 📈 Activity Graph
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=azmaatam&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph"/></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmaatam/azmaatam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmaatam/azmaatam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azmaatam/azmaatam/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
 
@@ -47,6 +51,7 @@ Passionate Full-Stack Developer specializing in Laravel and modern web technolog
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=azmaatam&style=flat-square&color=10E8FF" alt="visitor badge"/>
 </div>
+
 
 ---
 

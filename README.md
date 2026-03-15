@@ -9,10 +9,6 @@
 ## 🚀 About Me
 Passionate Full-Stack Developer specializing in Laravel and modern web technologies. I love crafting efficient, scalable applications and contributing to open-source. Currently diving deep into Laravel ecosystem!
 
-## 📊 GitHub Stats
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=azmaatam&show_icons=true&locale=en&theme=radical" alt="azmaatam stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmaatam&theme=radical" alt="azmaatam streak" width="38.5%" />
 
 
 ## 🛠️ Tech Stack & Tools
@@ -29,6 +25,13 @@ Passionate Full-Stack Developer specializing in Laravel and modern web technolog
 - 💬 Ask me about Laravel, PHP, full-stack dev
 - 📫 Reach me: azmaatam@example.com (update with real)
 - ⚡ Fun fact: Laravel lover since 2023!
+
+## 📊 GitHub Stats
+<div align="center">
+
+  [![Azma Atam GitHub stats](https://github-readme-stats.vercel.app/api?username=azmaatam&show_icons=true&locale=en&theme=dark)](https://github.com/azmaatam/github-readme-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmaatam&theme=dark" alt="azmaatam streak" width="%" />
+
 
 ## 📈 Activity Graph
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=azmaatam&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph"/></div>

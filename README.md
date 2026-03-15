@@ -1,3 +1,4 @@
+![azmaatam](img/github-header-banner.png)
 <div align="center">
 
 # Hi there, I'm **Azma Atam**<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 

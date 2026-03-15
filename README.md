@@ -1,5 +1,8 @@
 <div align="center">
-## Hi there, I'm **Azma Atam**<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 👋
+
+# Hi there, I'm **Azma Atam**<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10E8FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Laravel+Enthusiast;Passionate+about+building+scalable+web+apps;Always+learning+%26+improving+code+%F0%9F%A4%96" alt="Typing SVG" />
 
 ## 🚀 About Me

@@ -33,10 +33,6 @@ Passionate Full-Stack Developer specializing in Laravel and modern web technolog
 
 ## 📈 Activity Graph
 
-<img src="https://raw.githubusercontent.com/azmaatam/azmaatam/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmaatam/azmaatam/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmaatam/azmaatam/output/pacman-contribution-graph.svg">
